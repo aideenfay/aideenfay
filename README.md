@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on AI security at Microsoft
+- 🌱 I’m currently learning about mathematics for machine learning as part of my part-time masters.
+- 👯 Please reach out if you are interested in collaborating!
