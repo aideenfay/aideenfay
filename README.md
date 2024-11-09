@@ -6,17 +6,6 @@ Hi there! 👋 I'm Aideen, a Senior AI Security Researcher at Microsoft passiona
 <details>
 <summary>2024</summary>
 
-- March - Published [Paper Title 1](#paper-title-1)
-- January - Published [Paper Title 2](#paper-title-2)
-
-</details>
-
-<details>
-<summary>2023</summary>
-
-- December - Published [Paper Title 3](#paper-title-3)
-- June - Published [Paper Title 4](#paper-title-4)
-
 </details>
 
 ## Publications
