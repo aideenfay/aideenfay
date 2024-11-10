@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Aideen, a Senior AI Security Researcher at Microsoft passionate about AI safety, learning algorithms and the fundamental mathematics beyond machine learning and its interpretation. In addition to my full-time role, I'm studying at the Department of Mathematics at Imperial College London. 
+Hi there! 👋 I'm a Senior AI Security Researcher at Microsoft as well as a part-time student in the Department of Mathematics at Imperial College London. I'm passionate about AI safety, learning algorithms and the fundamental mathematics beyond machine learning and its interpretation. Please contact me if you are interested in collaborating! 
 
 
 <div align="center">
