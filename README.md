@@ -20,13 +20,13 @@ Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-tim
         </a>
     </td>
     <td align="center">
-        <a href="https://www.linkedin.com/in/aideen-fay">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://twitter.com/AideenFay">
             <img src="https://img.shields.io/badge/Twitter-@AideenFay-blue?style=flat-square&logo=twitter"/>
+        </a>
+    </td>
+        <td align="center">
+        <a href="https://www.linkedin.com/in/aideen-fay">
+            <img src="https://img.shields.io/badge/LinkedIn-aideenfay-blue?style=flat-square&logo=linkedin"/>
         </a>
     </td>
    
