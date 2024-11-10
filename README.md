@@ -40,7 +40,7 @@ Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-tim
 
 <details>
 <summary>2024</summary>
-
+- November: I'm attending the [London-Oxford Topological Data Analysis Seminar](https://sites.google.com/view/londoxtda/home) organized by my Dr.Anthea Monod.
 - November: I joined the [GirlsWhoML](https://girlswhoml.com/) initiative to help create course content and teach for the AI security workshop to UK undergraduate students.
 - October: I served as a Program Committee Member for [Safe Generative AI workshop @ NeurIPs 2024](https://safegenaiworkshop.github.io/).
 - September: My team at MSRC are launching the [Adaptive Prompt Injection Challenge](https://microsoft.github.io/llmail-inject/) as part of SaTML 2025.
