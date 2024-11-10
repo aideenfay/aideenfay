@@ -34,7 +34,7 @@ Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-tim
 - September: My team at MSRC are launching the [Adaptive Prompt Injection Challenge](https://microsoft.github.io/llmail-inject/) as part of SaTML 2025.
 - July: I served as a Program Committee Member for [18th ACM Workshop on Artificial Intelligence and Security (AISec 2024)](https://aisec.cc/#committee) where I was also voted Top Reviewer!
 - June: We released the [TaskTracker](https://github.com/microsoft/TaskTracker) dataset and codebase for behavioral drift detection.
-- June: We published "Are You Still On Track? Decting LLM Task Drift with LLM activations".
+- June: We published our new research [paper](https://arxiv.org/abs/2406.00799) "Are You Still On Track? Decting LLM Task Drift with LLM activations".
 - February: I joined the Microsoft Security Response Centre at Microsoft Research Cambridge as a Senior AI Security Researcher.
 
 </details>
