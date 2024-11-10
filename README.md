@@ -22,7 +22,7 @@ Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-tim
 </div>
 
 
-## News and Upcoming 
+## New and Upcoming 
 
 <details>
 <summary>2024</summary>
