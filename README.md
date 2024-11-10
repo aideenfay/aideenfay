@@ -66,7 +66,7 @@ Hi there! 👋 I'm Aideen, a Senior AI Security Researcher at Microsoft passiona
 <table border="0">
 <tr>
    <td width="25%">
-       <img src="activations.jpg" width="250px"/>
+       <img src="activations.png" width="250px"/>
    </td>
    <td width="75%" valign="top">
        <strong>Are you still on track!? Catching LLM Task Drift with Activations</strong><br/>
