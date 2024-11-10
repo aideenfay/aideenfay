@@ -54,9 +54,9 @@ Hi there! 👋 I'm Aideen, a Senior AI Security Researcher at Microsoft passiona
 <summary>2023</summary>
 
 - October: I presented at the United Nations Internet Governance Forum in Kyoto, Japan on "Co-operative AI: Multi-Agent AI Safety and International Co-Operation".
-- October: I presented at Microsoft BlueHat in Redmond, Washington - "Breach Path Busters: Decoding cyber threats with graphs and AI".
+- October: I presented at Microsoft BlueHat in Redmond, Washington - [Breach Path Busters: Using graphs and AI to decode cyber threats](https://www.youtube.com/watch?v=J621cAsKzZk).
 - October: I started my part-time MSc in the Department of Mathematics at Imperial College London.
-- February: I was promoted to Senior Security Research on the Microsoft Threat Hunting team.
+- February: I was promoted to Senior Security Researcher on the Microsoft Threat Hunting team.
 - February: I joined the European Cyber Conflict Research Initiative as Cybersecurity Fellow.
 
 </details>
