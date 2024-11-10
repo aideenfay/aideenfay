@@ -15,13 +15,13 @@ Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-tim
         </a>
     </td>
     <td align="center">
-        <a href="https://ghost.aideen.dev">
-            <img src="https://img.shields.io/badge/Website-aideen.dev-green?style=flat-square&logo=firefox"/>
+        <a href="https://scholar.google.de/citations?user=nplVbmMAAAAJ&hl=en">
+            <img src="https://img.shields.io/badge/Scholar-Profile-blue?style=flat-square&logo=google-scholar"/>
         </a>
     </td>
     <td align="center">
-        <a href="https://scholar.google.de/citations?user=nplVbmMAAAAJ&hl=en">
-            <img src="https://img.shields.io/badge/Scholar-Profile-blue?style=flat-square&logo=google-scholar"/>
+        <a href="https://www.linkedin.com/in/aideen-fay">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/>
         </a>
     </td>
     <td align="center">
@@ -29,6 +29,7 @@ Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-tim
             <img src="https://img.shields.io/badge/Twitter-@AideenFay-blue?style=flat-square&logo=twitter"/>
         </a>
     </td>
+   
 </tr>
 </table>
 </div>
