@@ -43,7 +43,7 @@ Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-tim
 - November: I joined the [GirlsWhoML](https://girlswhoml.com/) initiative to help create course content and teach for the AI security workshop to UK undergraduate students.
 - October: I'm a Program Committee Member for [Safe Generative AI workshop @ NeurIPs 2024](https://safegenaiworkshop.github.io/).
 - September: My team at MSRC are launching the [Adaptive Prompt Injection Challenge](https://microsoft.github.io/llmail-inject/) as part of SaTML 2025.
-- July: I'm serving as Program Committee Member for [18th ACM Workshop on Artificial Intelligence and Security (AISec 2024)](https://aisec.cc/#committee) (voted Top Reviewer!).
+- July: I'm served as a Program Committee Member for [18th ACM Workshop on Artificial Intelligence and Security (AISec 2024)](https://aisec.cc/#committee) where I was also voted Top Reviewer!
 - June: We released the [TaskTracker](https://github.com/microsoft/TaskTracker) dataset and codebase for behavioral drift detection.
 - June: We published "Are You Still On Track? Decting LLM Task Drift with LLM activations".
 - February: I joined the Microsoft Security Response Centre at Microsoft Research Cambridge as a Senior AI Security Researcher.
