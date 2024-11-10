@@ -1,4 +1,4 @@
-Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-time student in the Department of Mathematics at Imperial College London. I'm passionate about AI safety, learning algorithms and the fundamental mathematics beyond machine learning and its interpretation. Please contact me if you are interested in collaborating! 
+Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-time student in the Department of Mathematics at Imperial College London. I'm passionate about AI safety, learning algorithms and the fundamental mathematics beyond machine learning and its interpretation. Please contact me if you see a collaboration opportunity! 
 
 
 <div align="center">
