@@ -36,7 +36,7 @@ Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-tim
 
 ---
 
-## Updates
+## News and Upcoming 
 
 <details>
 <summary>2024</summary>
