@@ -1,7 +1,7 @@
 <html>
 <body>
   <div>
-    <p>Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-time student in the Department of Mathematics at Imperial College London. I'm passionate about AI safety, learning algorithms and the fundamental mathematics beyond machine learning and its interpretation. Please contact me if you see a collaboration opportunity!</p>
+    <p>Hi there! I'm a Senior AI Security Researcher at Microsoft as well as a part-time student in the Department of Mathematics at Imperial College London. I'm passionate about AI safety, learning algorithms and the fundamental mathematics behind machine learning and its interpretation. Please contact me if you see a collaboration opportunity!</p>
   </div>
 
   <div align="center">
@@ -29,7 +29,7 @@
   <details>
     <summary>2024</summary>
     <ul>
-      <li>November: I'm attending the <a href="https://sites.google.com/view/londoxtda/home">London-Oxford Topological Data Analysis Seminar</a> organized by my Dr.Anthea Monod.</li>
+      <li>November: I'm attending the <a href="https://sites.google.com/view/londoxtda/home">London-Oxford Topological Data Analysis Seminar</a> organized by my UDA lecturer Dr.Anthea Monod.</li>
       <li>November: I joined the <a href="https://girlswhoml.com/">GirlsWhoML</a> initiative to help create course content and teach for the AI security workshop to UK undergraduate students.</li>
       <li>October: I served as a Program Committee Member for <a href="https://safegenaiworkshop.github.io/">Safe Generative AI workshop @ NeurIPs 2024</a>.</li>
       <li>September: My team at MSRC are launching the <a href="https://microsoft.github.io/llmail-inject/">Adaptive Prompt Injection Challenge</a> as part of SaTML 2025.</li>
