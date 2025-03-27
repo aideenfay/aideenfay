@@ -6,7 +6,7 @@
 <p> I'm passionate about artificial intelligence, cognitive neuroscience, bayesian inference, and applying modern mathematics to better interpret and build more principled and dynamic learning systems. Feel free to reach out if you want to discuss ideas at the intersection of these areas. </p>
       
       
-  <p>I also love learning languages, freediving, and all things cyber/hacking. My research taste is eclectic but finding "unusual" connections between disciplines and concepts is where I have the most fun. </p>
+  <p>I also love learning languages, freediving, and all things cyber/hacking. </p>
   </div>
 
   <div align="center">
