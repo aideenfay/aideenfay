@@ -1,7 +1,7 @@
 <html>
 <body>
   <div>
-    <p>Hi there! I'm a Senior AI Security Researcher at Microsoft and part-time student in the Department of Mathematics at Imperial College London. Former Threat Hunter (also Microsoft) and spent time as a software and security engineer at AWS and Amazon.  </p>
+    <p>Hi there! I'm a Senior AI Security Researcher at Microsoft and part-time student in the Department of Mathematics at Imperial College London. Before this, I worked as a Threat Hunter at Microsoft to proactively identify APTs and critical security vulnerabilities and gaps that allow them to operate undetected in the first place. I also spent time at Amazon as a security engineer and AWS as a software engineering intern.   </p>
       
 <p> I'm passionate about artificial intelligence, cognitive neuroscience, bayesian inference, and applying modern mathematics to better interpret and build more principled and dynamic learning systems. Feel free to reach out if you want to discuss ideas at the intersection of these areas. </p>
       
