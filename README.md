@@ -1,7 +1,7 @@
 <html>
 <body>
   <div>
-    <p>Hi there! I'm a Senior AI Security Researcher at Microsoft and part-time student in the Department of Mathematics at Imperial College London. Before this, I worked as a Threat Hunter identifying <a href="https://en.wikipedia.org/wiki/Advanced_persistent_threat">APTs</a> within the infrastructure running Microsoft's cloud, identity, and M365 services, as well as the critical security vulnerabilities and gaps that might allow them to operate undetected in the first place. I also spent time at Amazon and AWS.   </p>
+    <p>Hi there! I'm a Senior AI Security Researcher at Microsoft and part-time student in the Department of Mathematics at Imperial College London. Before this, I worked as a Threat Hunter for APTs within the infrastructure running Microsoft's cloud, identity, and M365 services, as well as the critical security vulnerabilities and gaps that might allow them to operate undetected in the first place. I also spent time at Amazon and AWS.   </p>
       
 <p> I'm passionate about artificial intelligence, cognitive neuroscience, bayesian inference, and applying modern mathematics to better interpret and build more principled and dynamic learning systems. Feel free to reach out if you want to discuss ideas at the intersection of these areas. </p>
       
